@@ -22,5 +22,3 @@
 Если у вас возникли проблемы или есть предложения по улучшению скрипта, пожалуйста, создайте issue на GitHub ([ссылка на репозиторий](https://github.com/farlier32/blum-collector/)).
 
 [Скачать EXE](https://github.com/farlier32/blum-collector/releases/download/v1.0.0/BlumClicker.exe)
-
-Автор:[farlier32]
